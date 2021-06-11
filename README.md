@@ -19,6 +19,9 @@
 ### [my_stacksort](https://github.com/ljiwoo59/my_stacksort)
 ##### Sorting algorithm using two stacks
 
+### [my_pipex](https://github.com/ljiwoo59/my_pipex)
+##### Code UNIX mechanism
+
 # my_piscine
 [2020.11 ~ 2020.12]
 
