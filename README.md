@@ -22,6 +22,9 @@
 ### [my_pipex](https://github.com/ljiwoo59/my_pipex)
 ##### Code UNIX mechanism
 
+### [my_philo](https://github.com/ljiwoo59/my_philo)
+##### Multithreading with Dining philosophers problem
+
 # my_piscine
 [2020.11 ~ 2020.12]
 
