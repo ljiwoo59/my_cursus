@@ -2,28 +2,28 @@
 [2020.12 ~ Present]
 
 ## [my_lib](https://github.com/ljiwoo59/my_lib)
-### Recode functions of the C standard library as well as some other utility functions
+#### Recode functions of the C standard library as well as some other utility functions
 
 ## [my_printf](https://github.com/ljiwoo59/my_printf)
-### Recode 'printf' in the C standard library
+#### Recode 'printf' in the C standard library
 
 ## [my_fgets](https://github.com/ljiwoo59/my_fgets)
-### Read content line by line
+#### Read content line by line
 
 ## [my_server](https://github.com/ljiwoo59/my_server)
-### Wordpress + phpMyAdmin using Docker
+#### Wordpress + phpMyAdmin using Docker
 
 ## [my_game](https://github.com/ljiwoo59/my_game)
-### Recode Wolfenstein 3D
+#### Recode Wolfenstein 3D
 
 ## [my_stacksort](https://github.com/ljiwoo59/my_stacksort)
-### Sorting algorithm using two stacks
+#### Sorting algorithm using two stacks
 
 ## [my_pipex](https://github.com/ljiwoo59/my_pipex)
-### Code UNIX mechanism
+#### Code UNIX mechanism
 
 ## [my_philo](https://github.com/ljiwoo59/my_philo)
-### Multithreading with Dining philosophers problem
+#### Multithreading with Dining philosophers problem
 
 # my_piscine
 [2020.11 ~ 2020.12]
